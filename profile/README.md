@@ -1,6 +1,3 @@
-![# Frogster](/assets/banner-shadow.png)
-
-
 ## ❤️ Contribution
 This is an open source project, all the help is welcomed, and would love for you to help out however when contributing please follow the [Contributor Covenant Code of Conduct](/CODE_OF_CONDUCT.md), if you want more help on contributing [here](https://opensource.guide/) is some info.
 
