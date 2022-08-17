@@ -1,1 +1,1 @@
-![banner](/banner.png)
+![# Frogster](/assets/banner.png)
