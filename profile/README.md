@@ -1,4 +1,4 @@
-![# Frogster](/assets/banner.png)
+![# Frogster](/assets/banner-shadow.png)
 
 
 ## ❤️ Contribution
