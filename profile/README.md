@@ -12,3 +12,5 @@ Open source technology is the backbone of development and advances however it co
 
 ## 🕵️ Code names
 We use codenames to easily identify services and features for example if a non-technical user reports an issue we don't know if this issue is coming from the web server or the mobile app so adding codenames allows us to identify services faster and more optimally. With codenames we can standardize versions and packages for example `Toad-v1.0`, there are 4 codenames `Toad`, `Bullfrog`, `Heqet`, and `Coqui`.
+
+<sub>© Copyright, [frogster](https://frogster.app) all rights reserved</sub>
