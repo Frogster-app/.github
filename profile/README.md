@@ -11,4 +11,6 @@ Hex generation uses simplex-noise to generate a seedable poly based terrain.
 visit the repo [here](https://github.com/Frogster-app/HexGeneration). \
 visit the website [here](https://hex.frogster.app).
 
+# 
+
 <sub>© Copyright, [frogster](https://frogster.app) all rights reserved</sub>
