@@ -2,7 +2,7 @@
 # Open-source projects
 
 ### HexGeneration
-Hex generation uses simplex-noise to generate a seedable poly based terrain.
+using [simplex-noise](https://www.npmjs.com/package/simplex-noise) to create a seedable poly based terrain generator.
 ```
 - Biome generation
 - Entity placement
